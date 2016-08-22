@@ -7,6 +7,6 @@ Requires pyletmecreate from [here](https://github.com/francois-berder/PyLetMeCre
 Put mm.py and your script in the same directory. Just add "import mm" to the top of your script. Call functions within your python script as follows:
 
 <pre>
-mm.setf7()
+mm.set_f7()
 mm.quarter_play()
 </pre>
